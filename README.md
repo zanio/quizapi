@@ -4,21 +4,6 @@
 This is a project to demonstrate RESTful API with spring boot . The task is to build a book quizapi.
 you can find the hosted documentation @ [BookApi](https://documenter.getpostman.com/view/7638519/UVC8Ckxo)
 
-### Feature Requirements
-The list of required features are as follows: 
--  Add Category 
--   Edit Category 
--   List Categories 
--   Add Book 
--  Edit Book 
--   List Books 
--  Add Books to category  
-
-#### Others:
--  Create list of favorite books 
--  Delete Category/Book 
-- API documentation
-
 ### DEVELOPMENT
 
 #### Database setup
