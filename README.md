@@ -2,7 +2,7 @@
 
 ### Reference Documentation
 This is a project to demonstrate RESTful API with spring boot . The task is to build a book quizapi.
-you can find the hosted documentation @ [BookApi](https://documenter.getpostman.com/view/7638519/UVC8Ckxo)
+you can find the hosted documentation @ [QuizApi](https://documenter.getpostman.com/view/7638519/UVCB94RP)
 
 ### DEVELOPMENT
 
