@@ -48,13 +48,13 @@ click on the dollar sign and another modal would appear. from this modal you can
 make sure you resolve all dependencies first.
 To start the application based on intellij you can just use the play button on intellij.
 OR You can just compile and start the application from the command line while on the app directory using the following command
-- mvn clean install
+- mvn -B clean package
   <br/>
   <br/>
 and start the application using the following command:
 - java -jar  target/quizapi-0.0.1-SNAPSHOT.jar 
 
-note: make sure you set all required environment variables as required by the env.example file using the command if on linux
+note: make sure you set all required environment variables as required by the env.example file using the below command if you are on linux
 `export KEY="value"`
 
 
