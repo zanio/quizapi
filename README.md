@@ -1,7 +1,7 @@
 # Getting Started
 
 ### Reference Documentation
-This is a project to demonstrate RESTful API with spring boot . The task is to build a book quizapi.
+This is a project to demonstrate RESTful API with spring boot . The task is to build a  Quiz Api.
 you can find the hosted documentation @ [QuizApi](https://documenter.getpostman.com/view/7638519/UVCB94RP)
 
 ### DEVELOPMENT
