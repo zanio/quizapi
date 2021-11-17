@@ -39,9 +39,8 @@ Pre-requisites:
 
 - Docker for Desktop
 
-Run `docker-compose up` in the root of the project.
+Run the script `./start.sh` in the root of the project.
 
-It will bring up Postgres and the Express application server in development mode.
 
 It binds the application server to `localhost:${PORT}`, Where `port` is any value set in your .env file
 
