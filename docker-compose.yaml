@@ -1,0 +1,22 @@
+# docker-compose.yml
+version: "3"
+services:
+  app:
+    build: .
+    container_name: QuizApi
+    depends_on:
+      - postgres
+    env_file:
+      - .env
+    ports:
+      - "${PORT}:${PORT}"
+    command: npm run dev
+    volumes:
+      - .:/app/
+
+  postgres:
+    image: postgres:10.4
+    ports:
+      - "35432:5432"
+    env_file:
+      - .env
